@@ -13,6 +13,7 @@ namespace C3
             if (a % 2 == 0) Console.WriteLine(" input number is even !");
             else Console.WriteLine("QQQQQQQQQQQQQQ   Odd !!!");
             Console.WriteLine("You see that ?");
+            Console.WriteLine(" E ! I'm see that  !!!");
         }
 
     }
