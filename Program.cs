@@ -7,6 +7,7 @@ namespace C3
         static void Main()
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine(" hi Bro !!");
 
         }
 
