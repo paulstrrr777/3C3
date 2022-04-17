@@ -12,6 +12,7 @@ namespace C3
             int? a = int.Parse(Console.ReadLine());
             if (a % 2 == 0) Console.WriteLine(" input number is even !");
             else Console.WriteLine("QQQQQQQQQQQQQQ   Odd !!!");
+            Console.WriteLine("You see that ?");
         }
 
     }
