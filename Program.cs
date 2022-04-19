@@ -14,6 +14,10 @@ namespace C3
             else Console.WriteLine("QQQQQQQQQQQQQQ   Odd !!!");
             Console.WriteLine("You see that ?");
             Console.WriteLine(" E ! I'm see that  !!!");
+            Console.Write("Input Something : ");
+            char symbol = Console.ReadKey().KeyChar;
+            
+            Console.WriteLine(  $"\n {symbol} !");
         }
 
     }
